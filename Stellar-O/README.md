@@ -364,7 +364,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ## 👨‍💻 Author
 
   Gyan Prakash Tiwari.
-  Github Repo:- https://github.com/Gyan987/StellarXorange-BELT-main
+  Github Repo:- https://github.com/Vaibhaw-987/StellarXorange-BELT-main
 - Built for:(https://risein.com)
   Built for: Stellar Journey to Mastery — Level 3 & Level 4
 
